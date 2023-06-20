@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  background: url("https://www.supercars.net/blog/wp-content/uploads/2020/09/wallpaperflare.com_wallpaper-1-1.jpg")
+    no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 40px;
+}
